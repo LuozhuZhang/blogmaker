@@ -1,3 +1,6 @@
+Done: https://luozhu.io
+
+
 # Blogmaker
 
 This is an ultra-simple self-hosted blog publishing solution.
